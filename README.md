@@ -2,6 +2,13 @@
 Testing markdown fences
 
 
+```mermaid
+ graph LR;
+  A-->B;
+  click A exampleCallback "Tooltip for a callback"
+  click B "http://www.github.com" "This is a tooltip for a link"
+```
+
 ```js
 const exampleNumber = 12;
 console.log(exampleNumber);
