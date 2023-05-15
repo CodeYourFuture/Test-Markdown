@@ -54,6 +54,6 @@ mindmap
 <!--
 ```objectives
 - [ ] Write a fenced block
-- [ ] Parse it through the base64 blob
+- [ ] Hide this one in comments
 ```
 -->
